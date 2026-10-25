@@ -439,6 +439,9 @@ async function githubJSON(url) {
 }
 
 async function getLatestRelease(username, repo) {
+  if (["ephrata_choir", "henon_choir_app"].includes(String(repo).toLowerCase())) {
+    return null;
+  }
   try {
     const release = await githubJSON(`${GITHUB_API}/repos/${encodeURIComponent(username)}/${encodeURIComponent(repo)}/releases/latest`);
     const apk = (release.assets || []).find(asset => asset.name.toLowerCase().endsWith(".apk"));

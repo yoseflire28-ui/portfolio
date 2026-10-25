@@ -13,11 +13,6 @@
       "repoURL": "https://github.com/yoseflire28-ui/ephrata_choir",
       "htmlURL": "https://github.com/yoseflire28-ui/ephrata_choir",
       "githubLabel": "View Source Code",
-      "apk": "https://github.com/yoseflire28-ui/ephrata_choir/releases/download/v1.0.0/app-release.apk",
-      "release": {
-        "tag": "v1.0.0",
-        "apkURL": "https://github.com/yoseflire28-ui/ephrata_choir/releases/download/v1.0.0/app-release.apk"
-      },
       "tags": [
         "Flutter",
         "Dart",
@@ -48,6 +43,19 @@
       ],
       "subtitle": "Ethiopian Ephrata Choir • Offline Hymn Lyrics",
       "galleryURL": "#ephrata-choir-gallery"
+    },
+    {
+      "name": "Henon Choir",
+      "description": "An offline-first Flutter app for browsing Ethiopian choir hymn lyrics with a simple, readable mobile experience.",
+      "cover": "assets/henon-choir/preview.png",
+      "repoURL": "https://github.com/yoseflire28-ui/henon_choir_app",
+      "htmlURL": "https://github.com/yoseflire28-ui/henon_choir_app",
+      "galleryURL": "#henon-choir-gallery",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Local/offline song data"
+      ]
     },
     {
       "name": "TutorPDF",
