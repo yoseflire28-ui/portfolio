@@ -1,0 +1,139 @@
+{
+  "apps": [
+    {
+      "name": "Ephrata Choir — Yemezmur Debeter",
+      "description": "An offline-friendly Ethiopian Ephrata Choir lyrics application that helps users browse and read spiritual songs on their phones.",
+      "features": [
+        "Offline song lyrics browsing",
+        "Organized song list and song details",
+        "Easy reading on mobile devices",
+        "Local access to available song content"
+      ],
+      "cover": "assets/ephrata-choir/home-page.jpg",
+      "repoURL": "https://github.com/yoseflire28-ui/ephrata_choir",
+      "htmlURL": "https://github.com/yoseflire28-ui/ephrata_choir",
+      "githubLabel": "View Source Code",
+      "apk": "https://github.com/yoseflire28-ui/ephrata_choir/releases/download/v1.0.0/app-release.apk",
+      "release": {
+        "tag": "v1.0.0",
+        "apkURL": "https://github.com/yoseflire28-ui/ephrata_choir/releases/download/v1.0.0/app-release.apk"
+      },
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Android",
+        "Offline Lyrics"
+      ],
+      "screenshots": [
+        {
+          "src": "assets/ephrata-choir/home-page.jpg",
+          "alt": "Ephrata Choir Home Page displaying spiritual hymns and quick navigation",
+          "label": "Home Page"
+        },
+        {
+          "src": "assets/ephrata-choir/all-songs-page.jpg",
+          "alt": "Ephrata Choir All Songs page with search and organized song listings",
+          "label": "All Songs"
+        },
+        {
+          "src": "assets/ephrata-choir/settings-page.jpg",
+          "alt": "Ephrata Choir Settings page with font customization, text size, and theme options",
+          "label": "Settings"
+        },
+        {
+          "src": "assets/ephrata-choir/favorites-page.jpg",
+          "alt": "Ephrata Choir Favorites page for saved hymns and bookmarks",
+          "label": "Favorites"
+        }
+      ],
+      "subtitle": "Ethiopian Ephrata Choir • Offline Hymn Lyrics",
+      "galleryURL": "#ephrata-choir-gallery"
+    },
+    {
+      "name": "TutorPDF",
+      "description": "TutorPDF is a Flutter-based document utility application designed to help users access and work with documents on Android. Its document features include PDF, DOCX, and PPTX viewing, with optional AI-powered functionality for supported tasks.",
+      "features": [
+        "Local PDF, DOCX, and PPTX document access and viewing",
+        "Optional Gemini-powered study assistance requires an API key configured in Settings"
+      ],
+      "cover": "assets/tutorpdf/preview.png",
+      "repoURL": "https://github.com/yoseflire28-ui/tutorpdf",
+      "htmlURL": "https://github.com/yoseflire28-ui/tutorpdf",
+      "githubLabel": "View on GitHub",
+      "releaseURL": "https://github.com/yoseflire28-ui/tutorpdf/releases",
+      "galleryURL": "#tutorpdf-gallery",
+      "apk": "https://github.com/yoseflire28-ui/tutorpdf/releases/download/v1.0.0/app-release.apk",
+      "release": {
+        "tag": "v1.0.0",
+        "apkURL": "https://github.com/yoseflire28-ui/tutorpdf/releases/download/v1.0.0/app-release.apk"
+      },
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Android",
+        "PDF / DOCX / PPTX",
+        "Gemini AI integration (optional)"
+      ]
+    },
+    {
+      "name": "Lingua School",
+      "description": "Lingua School is a Flutter student-management app for language schools, with searchable student records, profile details, and student data tools.",
+      "features": [
+        "Search and sort student records, with inline edit and delete controls",
+        "View student profiles and manage records through a structured add-student form",
+        "Import and export CSV backups, with language, theme, and activity-log settings"
+      ],
+      "cover": "assets/lingua-school/preview.png",
+      "repoURL": "https://github.com/yoseflire28-ui/lingua_school",
+      "htmlURL": "https://github.com/yoseflire28-ui/lingua_school",
+      "githubLabel": "View on GitHub",
+      "releaseURL": "https://github.com/yoseflire28-ui/lingua_school/releases/latest",
+      "galleryURL": "#lingua-school-gallery",
+      "apk": "https://github.com/yoseflire28-ui/lingua_school/releases/download/v1.0.0/app-release.apk",
+      "release": {
+        "tag": "v1.0.0",
+        "apkURL": "https://github.com/yoseflire28-ui/lingua_school/releases/download/v1.0.0/app-release.apk"
+      },
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Android",
+        "Student management",
+        "CSV"
+      ]
+    }
+  ],
+  "websites": [
+    {
+      "title": "Hossana Gebeya",
+      "category": "E-commerce Website",
+      "description": "An Ethiopian online marketplace designed to help customers explore products across multiple categories, view product details, and shop through a simple, user-friendly interface.",
+      "cover": "assets/hossana-gebeya/customer-home.jpg",
+      "url": "https://hossana-gebeya.vercel.app/",
+      "repoURL": "https://hossana-gebeya.vercel.app/",
+      "liveDemoLabel": "Live Demo",
+      "githubRepositoryLabel": "GitHub Repository",
+      "screenshots": [
+        {
+          "src": "assets/hossana-gebeya/customer-home.jpg",
+          "alt": "Hossana Gebeya customer home page showing its product grid",
+          "label": "Customer Home"
+        },
+        {
+          "src": "assets/hossana-gebeya/customer-categories.jpg",
+          "alt": "Hossana Gebeya categories page showing category cards and featured goods",
+          "label": "Categories"
+        }
+      ],
+      "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "TiDB Cloud"
+      ]
+    }
+  ],
+  "uiux": []
+}
